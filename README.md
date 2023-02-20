@@ -13,4 +13,4 @@ Objetivo do projeto:
 
 Faz o build do projeto e compila ele.
 
-Leia o artigo [implantação](https://pt.linkedin.com/pulse/webpack-oque-%C3%A9-como-usar-e-integrar-com-o-babel-edivaldo-j%C3%BAnior) para obter mais informações.
+Leia o meu [artigo técnico sobre como configurar o WEBPACK] para ter mais informações.(https://pt.linkedin.com/pulse/webpack-oque-%C3%A9-como-usar-e-integrar-com-o-babel-edivaldo-j%C3%BAnior) para obter mais informações.
